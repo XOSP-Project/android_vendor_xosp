@@ -224,7 +224,7 @@ function dddclient()
 }
 
 function xospapps_essentials() {
-    xospappsessentials="http://essentials.xospapps.xosp.org"
+    xospappsessentials="https://xospapps.xosp.org"
     function xospapps_essentials_done {
         echo -e "Done."
     }
